@@ -6,10 +6,10 @@
 
 ### 과제 github 시작하기 동영상
 
-<iframe width="880" height="604" src="https://www.youtube.com/embed/UkT7n2CbiZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="780" height="604" src="https://www.youtube.com/embed/UkT7n2CbiZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
 ### 과제 sourcetree 사용 동영상
-<iframe width="880" height="604" src="https://www.youtube.com/embed/BktLA2_IJ0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="780" height="604" src="https://www.youtube.com/embed/BktLA2_IJ0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 힘들지만 극복한점
 처음에는 Github를 사용하는 법을 몰라 많은 시행착오를 겪었지만, 추후 계속된 연습과 반복으로 인해 repository 및 branch를 생성하고 삭제하는 법을 완벽히 숙지하였습니다.
