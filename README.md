@@ -12,5 +12,6 @@
 <iframe width="1280" height="604" src="https://www.youtube.com/embed/BktLA2_IJ0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### 힘들지만극복한점
-1.<br>
+1.Github에서 Repository와 page를 생성하는 법과 삭제하는 법을 배웠습니다.<br>
 2.<br>
+3.<br>
