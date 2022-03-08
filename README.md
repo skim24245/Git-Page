@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Git 수업에대한개요
 
 You can use the [editor on GitHub](https://github.com/skim24245/Git-Page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
