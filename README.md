@@ -1,8 +1,8 @@
 ### Git 수업에대한개요
-1.Repository 생성법
-2.Branch 생성 및 삭제법 
-3.로컬 저장소와 원격 저장소 remote하는 법(연결하는 법)
-4. Push and Pull 하는 법 (업로드 및 다운로드)
+1.Repository 생성법 <br>
+2.Branch 생성 및 삭제법 <br>
+3.로컬 저장소와 원격 저장소 remote하는 법(연결하는 법)<br>
+4. Push and Pull 하는 법 (업로드 및 다운로드)<br>
 
 ### 과제github시작하기동영상
 
